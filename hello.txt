@@ -1,7 +1,3 @@
-line 2
+hello world
 
-line 3
-
-ça
-
-line 4
+2
